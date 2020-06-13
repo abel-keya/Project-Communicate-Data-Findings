@@ -2,13 +2,13 @@
 
 **Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
 
-# dataset
+# Dataset
  
  
 # Main findings from the exploratory data analysis
 
 
-# choice the results to put in your explanatory analysis
+# Choice the results to put in your explanatory analysis
 
 
 # Feedback from others for your explanatory designs
