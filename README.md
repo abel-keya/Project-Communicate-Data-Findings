@@ -1,6 +1,6 @@
 # Project-Communicate-Data-Findings
 
-Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
+**Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
 
 # dataset
  
