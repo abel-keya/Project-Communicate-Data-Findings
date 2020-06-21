@@ -1,6 +1,6 @@
 # Project-Communicate-Data-Findings
   
- ![G1](G2.gif) 
+ ![d3](G3.gif) 
  
 # Problem statement:
 Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
@@ -18,8 +18,13 @@ The dataset contains 6028 records, and 7 columns.
 * Neighborhood-the surroundig area where the house located.
 
 # Main findings from the exploratory data analysis
-**Step 2.1: Document your Story
-At the end of your exploration, you probably have a bunch of things that you’ve discovered. Now it’s time to organize your findings and select a story that you will convey to others. In your readme document, you should summarize your main findings and reflect on the steps you took in your data exploration. You should also lay out the key insights that you want to convey in your explanatory report as well as any changes to visualizations, or note new visualizations that will be created to bridge between your insights.**
+I undertook exploratory data analysis by going through the following steps:
+* Univariate Analysis
+* Bivariate Analysis
+* Multivariate Analysis
+
+From the initial plots i discovered that a postive correlation exists between price which can be well handled with Feceted grids. As a result i put in more efforts in Multivariate faceted plot.
+ 
 * There is a strong positive correlation between price,style and area in all the three neighbohood 
 * High correlation between area,bathrooms,bedrooms, and price
 * The house prices increases with the increase int the number of bedrooms, with the 8 bedrooms having the highest price figure while 1 bedroom has the lowest.This is surprising because the houses with 0 bedroom have higher prices compared to the 1 bedroom house
@@ -27,7 +32,7 @@ At the end of your exploration, you probably have a bunch of things that you’v
 
 * Neighborhood B is the most popular with the highest percentage representation at approximately 40.26%,Neighborhood A follows with * * * approximately 31 % while Neighborhood C is the least popular with approximately 28.6%
 
-# Choice of the results to put in your explanatory analysis
+# Choice of the results to put in the explanatory analysis
 
 
 I chose  results on :
@@ -36,17 +41,13 @@ I chose  results on :
 This is because the above factors are intertwined and each has an effect to the choice of a house and demand.
 
 
-# Feedback from others for your explanatory designs
+# Feedback from others for your explanatory designs.
 
-**Though not required, it is highly recommended that you try to get feedback from at least one person before you submit your project. By sharing your work with others, you can get input from a different perspective that catches things that you may have originally missed. Share your slide deck with someone in person and have them provide live feedback on what they get from your slide deck. Alternatively, you can also share your work with your fellow students. Post a message in a student community channel for this project with a link to your project and ask for feedback. Be sure to keep an eye out for others who are also seeking feedback and return the favor!
+I shared my slide deck with a course mate who made the following observiations:
 
-You might need to ask specific questions to prompt your reader. The following questions might be good starters; be sure to follow up or come up with your own questions:
-
-What do you notice about each visualization?
-What questions do you have about the data?
-What relationships do you notice?
-What do you think is the main takeaway from the slide deck?
-Is there anything that you don’t understand from the plots? **
+* The color theme was consitent throughout the slide deck
+* whether i could do feature engineering to find the price per unit area
+* The reviwer was able to notice the trends in prices, the positive correlation between the price and other features
 
 # List of resources used during the creation of the project.
 
