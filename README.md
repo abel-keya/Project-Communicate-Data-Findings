@@ -2,8 +2,6 @@
   
  ![G1](G2.gif) 
  
- ![Thyroid](d3.jpg) 
-
 **Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
 
 #
