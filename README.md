@@ -2,7 +2,8 @@
   
  ![G1](G2.gif) 
  
-**Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
+# Problem statement:
+Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
 
 #
 [Dataset](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv):
