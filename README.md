@@ -1,6 +1,7 @@
 # Project-Communicate-Data-Findings
   
- ![Thyroid](G1.gif) 
+ ![G1](G1.gif) 
+ 
  ![Thyroid](d3.jpg) 
 
 **Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
@@ -61,7 +62,7 @@ This is because the above factors are intertwined and each has an effect to the 
    
  <p align="center"> 
    
-  <img   src="tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
+  <img   src="https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
  
 </p>
 
