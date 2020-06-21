@@ -1,6 +1,6 @@
 # Project-Communicate-Data-Findings
   
- ![d3](G3.gif) 
+ ![G1](G1.gif) 
  
 # Problem statement:
 Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
