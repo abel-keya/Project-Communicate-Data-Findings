@@ -1,15 +1,13 @@
 # Project-Communicate-Data-Findings
-
-
   
  ![Thyroid](giphy.gif) 
  ![Thyroid](anima1.gif) 
 
-
 **Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
 
 #
-[dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv):
+[Dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv):
+
 In this project i used the **house_prices** provided in the workspace .The dataset has the following features:
 The dataset contains 6028 records, and 7 columns.
  
