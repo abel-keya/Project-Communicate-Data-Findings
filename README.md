@@ -1,87 +1,55 @@
 # Project-Communicate-Data-Findings
 
+
+  
+ ![Thyroid](giphy.gif) 
+ ![Thyroid](anima1.gif) 
+
+
 **Problem statement** Apply design and data visualization principles to the data analysis process by creating visualizations to tell a story with data.
 
-# Dataset
+#
+[dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv):
+In this project i used the **house_prices** provided in the workspace .The dataset has the following features:
+The dataset contains 6028 records, and 7 columns.
  
- 
+* price - Price of the house
+* bedrooms - Number of Bedrooms
+* bathrooms - Number of Bathrooms
+* style-the archtectural style of the house
+* Neighborhood-the surroundig area where the house located.
+
 # Main findings from the exploratory data analysis
+* There is a strong positive correlation between price,style and area in all the three neighbohood 
+* High correlation between area,bathrooms,bedrooms, and price
+* The house prices increases with the increase int the number of bedrooms, with the 8 bedrooms having the highest price figure while 1 bedroom has the lowest.This is surprising because the houses with 0 bedroom have higher prices compared to the 1 bedroom house
+* There are 3 main house styles which have variation in prices in relation to the Neighborhood and house bedrooms/bathroomsVictorian Style is the most popular with the highest percentage approximately 50%, Ranch is the second most popular house styles with approximately 29.9%, Lodge style is least popular accounting to approximately 20.4 %
+
+* Neighborhood B is the most popular with the highest percentage representation at approximately 40.26%,Neighborhood A follows with * * * approximately 31 % while Neighborhood C is the least popular with approximately 28.6%
+
+# Choice of the results to put in your explanatory analysis
 
 
-# Choice the results to put in your explanatory analysis
+I chose  results on :
+* price distribution
+* price variation with respect Number of bedrooms,bathrooms,Neighborhood and styles
+This is because the above factors are intertwined and each has an effect to the choice of a house and demand.
 
 
 # Feedback from others for your explanatory designs
 
 
 
-# List of resources used during the creation of the project. 
-* web sites, 
-* books, 
-* forums, 
-* blog posts 
-* GitHub repositories.
-**Problem statement:**  
+# List of resources used during the creation of the project.
 
-Build a model that predicts whether or not the patient's has hypothyroid  clinical  test data collected at Nairobi Hospital 
-
-
-
-  
-  
-# Description
-
-### Solution 1: Decision trees classification Models:
-
-- Boosted Decision Tree models that makes the above prediction. 
-* Random forests,
-* Ada boosted trees,
-* gradient boosting.
-</p>
-- optimization of each of the the above models to Identify the best model, and used the best model to determine which features are most impactful in influencing the prediction
-
-### Solution 2: Support Vector Machine:
-
-- The project code applies rbf,Sigmoid and Polynomial kernel function to build the SVM model and then evaluates their performance and then  pick the kernel that performs the best. 
-- the best kernel is  used with tuned parameters and  additional features. 
-visualization of  the models created. 
-
-
-# Data Features
-Dataset
-
-The [dataset](https://github.com/abel-keya/week8_IP_Abel_Keya_Nairobi-Hospital-conducted-a-clinical-camp-to-test-for-hypothyroidism/blob/master/hypothyroid.csv) has the following features:
-
-**Dataset Columns**
-* Age, Sex, on_thyroxine, query_on_thyroxine,on_antithyroid_medicationthyroid_surgery,query_hypothyroid,query_hyperthyroid,pregnant,sick,tumor,lithium,goitre,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4
-
-# Context
-
-<p>
-   
-### Hypothyroidism: (Underactive Thyroid)-Too Little Thyroid Hormone
-Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism.
- 
- </p>
-   
-   <p align="center">
-   <img align="center" src="thyroid1.jpg" width="350" height="250" align="center">
-  
-  <img align="center" src="thyroidfunction.gif" width="200" height="250">
-  
-  </p>
-  
-  <p align="center">
-
- ![Thyroid](giphy.gif) 
- ![Thyroid](anima1.gif) 
-
-   
-   Clinical procedure used for obtaining data:
- 
- (https://www.youtube.com/watch?v=iIO09kGSRkI)
-  
- (https://www.youtube.com/watch?v=XR4nOMp_bGA)
+* 1.https://julienbeaulieu.gitbook.io/wiki/sciences/programming/data-analysis/data-visualization/univariate-exploration-of-data/bar-chart
+* 2.https://www.darkhorseanalytics.com/blog/data-looks-better-naked
+* 3.https://www.oreilly.com/library/view/python-for-data/9781449323592/ch04.html
+* 4.http://dataviztalk.blogspot.com/2016/02/how-to-add-jitter-to-plot-using-pythons.html
+* 5.https://socviz.co/gettingstarted.html
+* 6.http://yunus.hacettepe.edu.tr/~burkay.genc/courses/pss707_eda/ggplot/ggplot.html#introduction
+* 7.http://cs-tklab.na-inet.jp/~tkouya/python/scipy-lectures/intro/matplotlib/matplotlib.html
+* 8.https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html
 
 # Requirements
 * Anaconda installation
