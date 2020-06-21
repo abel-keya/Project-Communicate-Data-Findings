@@ -1,6 +1,6 @@
 # Project-Communicate-Data-Findings
   
- ![G1](G1.gif) 
+ ![G1](G2.gif) 
  
  ![Thyroid](d3.jpg) 
 
