@@ -48,6 +48,20 @@ I shared my slide deck with a course mate who made the following observiations:
 * The color theme was consitent throughout the slide deck
 * whether i could do feature engineering to find the price per unit area
 * The reviwer was able to notice the trends in prices, the positive correlation between the price and other features
+* Detailed feedback was as follows:
+
+[6:35 PM, 6/21/2020] Data Analyst: The following are my observations: 
+- From your slide deck, I can see that more focus is on exploratory analysis which has been well documented. In addition, the visualizations are well labeled. 
+
+- In the visualizations, a couple of things come up:
+    - The use of different colors in the bar chart visualizing the styles seems unnecessary since the visualization is about one measurement.
+    - In the chart showing the Price versus bedrooms, labels are not well visible. Consider probably increasing the figure size.
+    - In the chart visualizing bedrooms versus neighborhood, from my opinion, it would be prudent to use distinct colors (Like those you've used in the styles vs neighborhoods) to represent the neighborhoods, as the colors you've chosen seem to morph into one another, which tends to distort the information being represented. For a color blind person per se, he'd only see the dominant blue color.
+    - In the distribution of bedrooms against style, it'd be prudent to have the legend at the top far end, left or right of the chart, as having it in the middle clashes with the bar representation of the 2 bedroomed houses with the lodge style. 
+    - There seems to be a missing link in the line plot comparing the number of bedrooms to the area of the house.
+ 
+In general, from the analysis and visualizations, what do you think is the main factor affecting the price of a house? Factor in having no multicollinearity between the variables.
+[6:45 PM, 6/21/2020] Data Analyst: Also, There's some missing information in the text explaining the distribution of styles against  Neighborhoods. Which neighborhood has the lowest proportion of styles?
 
 # List of resources used during the creation of the project.
 
